@@ -5,14 +5,14 @@ Explore: Sequelize - Express - Migrations - Seed
 Base on: [Sequelize + Express Starter Guide](https://gist.github.com/vapurrmaid/a111bf3fc0224751cb2f76532aac2465)
 
 ### Installation
-- First of all:
--- Clone my repo
+**First of all** 
+- Clone my repo
 ```sh
 $ git clone https://github.com/nvlinh99/sequelize-express.git
 $ npm install
 ```
-- Next, 
--- Config database
+**Next,**
+- Config database
 ```sh
 $ cd config/config.json
 
@@ -26,11 +26,11 @@ $ cd config/config.json
     }
 * Field "dialect" you can use another database such as: mysql, mongodb,...
 ```
-- And then,
--- Run app: 
+**And then,**
+- Run app: 
 
 ```sh
 $ npm start
 ```
-- Finally,
--- Use Postman to test (GET/POST)
+**Finally,**
+- Use Postman to test (GET/POST)
